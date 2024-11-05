@@ -1,15 +1,6 @@
-Berikut adalah contoh README.md yang menarik untuk portofolio GitHub Anda:
-
-# Portofolio GitHub - itsnatt
+---
 
 Selamat datang di portofolio GitHub saya! Di sini, Anda dapat menemukan berbagai proyek yang telah saya kerjakan, yang mencerminkan kemampuan dan minat saya dalam pengembangan perangkat lunak.
-
-## Profil Pengguna
-- **Username**: itsnatt
-- **Followers**: 9
-- **Following**: 10
-- **Stars**: 1
-- **Jumlah Repositories**: 25
 
 ---
 
@@ -52,7 +43,6 @@ Selamat datang di portofolio GitHub saya! Di sini, Anda dapat menemukan berbagai
 
 ---
 
-## Kesimpulan
 Saya terus mengembangkan keterampilan dan pengetahuan saya dalam pengembangan perangkat lunak. Silakan lihat proyek-proyek saya dan jangan ragu untuk menghubungi saya jika Anda tertarik untuk berkolaborasi!
 
 ---
@@ -62,5 +52,3 @@ Saya terus mengembangkan keterampilan dan pengetahuan saya dalam pengembangan pe
 - **LinkedIn**: [Profil LinkedIn](https://www.linkedin.com/in/example)
 
 Terima kasih telah mengunjungi portofolio saya!
-
-Anda dapat mengganti `example@example.com` dan `https://www.linkedin.com/in/example` dengan informasi kontak yang sesuai. README ini mencakup deskripsi yang jelas dan menarik tentang proyek Anda, serta informasi kontak untuk kolaborasi.
