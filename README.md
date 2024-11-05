@@ -1,6 +1,5 @@
 Berikut adalah contoh README.md yang menarik untuk portofolio GitHub Anda:
 
-```markdown
 # Portofolio GitHub - itsnatt
 
 Selamat datang di portofolio GitHub saya! Di sini, Anda dapat menemukan berbagai proyek yang telah saya kerjakan, yang mencerminkan kemampuan dan minat saya dalam pengembangan perangkat lunak.
@@ -63,6 +62,5 @@ Saya terus mengembangkan keterampilan dan pengetahuan saya dalam pengembangan pe
 - **LinkedIn**: [Profil LinkedIn](https://www.linkedin.com/in/example)
 
 Terima kasih telah mengunjungi portofolio saya!
-```
 
 Anda dapat mengganti `example@example.com` dan `https://www.linkedin.com/in/example` dengan informasi kontak yang sesuai. README ini mencakup deskripsi yang jelas dan menarik tentang proyek Anda, serta informasi kontak untuk kolaborasi.
